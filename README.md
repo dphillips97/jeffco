@@ -1,11 +1,11 @@
-##Work Sample for Jeffco Open Spaces GIS Analyst
+## Work Sample for Jeffco Open Spaces GIS Analyst
 
-##Deliverables:
-1. http://arcg.is/Pb55S0
+### Deliverables:
+1. [**Web Map App**](http://arcg.is/Pb55S0)
 2. final_output.xlsx shows park name, then trail difficulty, then trail names
 3. table_to_join.xlsx shows the same data in a way that can be imported into GIS software
 
-###Basic Workflow
+### Basic Workflow
 1. Use spatial join in ArcGIS Desktop 10.5 to find all trails in each park
 2. Export resulting table as .csv and open in Jupyter Notebook
 3. Clean data: rename columns, remove unlisted trails (trails with no name info)
